@@ -13,7 +13,7 @@ On my way to become a billionaire
 ## Connect with me 🤙
 
 <a href="https://www.linkedin.com/in/kamil-anwar-369028194/">
-  <img align="left" alt=" LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="white" />
+  <img align="left" alt=" LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="#ffffff" />
 </a>
 </br>
 
