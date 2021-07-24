@@ -36,7 +36,7 @@ On my way to become a billionaire
 <p>
 
 <a align= "center" href="https://github.com/al-habibi-1107">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=rumela3011&theme=cobalt&show_icons=true&count_private=true" />
+  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=al-habibi-1107&theme=cobalt&show_icons=true&count_private=true" />
   <img align="right" height="270px" alt="" width="350" src="https://media.giphy.com/media/5xaOcLSjCuroxKfZ4yI/giphy.gif"/> </a>
   
 </p>
