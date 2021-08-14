@@ -41,6 +41,14 @@ On my way to become a billionaire
   
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-habibi-1107&" alt="al-habibi-1107" /></p>
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=al-habibi-1107&&style=flat-square" align="center" />
+</div>  
+  
+
 <!--<p>
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/rumela3011"/>
 </p>-->
