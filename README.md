@@ -33,12 +33,11 @@ On my way to become a billionaire
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-<p>
 
-<a align= "center" href="https://github.com/al-habibi-1107">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=al-habibi-1107&theme=cobalt&show_icons=true&count_private=true" />
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skhiearth&layout=compact&theme=cobalt">
   
+  <p align=center>
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=al-habibi-1107&show_icons=true&theme=gruvbox">
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-habibi-1107h&layout=compact&theme=gruvbox">
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-habibi-1107&" alt="al-habibi-1107" /></p>
