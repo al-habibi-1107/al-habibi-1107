@@ -42,12 +42,12 @@ On my way to become a billionaire
 
 <p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-habibi-1107&" alt="al-habibi-1107" /></p>
 <br/>  
-<br><p align="right">![](https://visitor-badge.laobi.icu/badge?page_id=al-habibi-1107)<br>
+ <img align="center" alt="visitors" src="https://gpvc.arturio.dev/al-habibi-1107"/>
   
 
 
   
 
 <!--<p>
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/rumela3011"/>
+   
 </p>-->
