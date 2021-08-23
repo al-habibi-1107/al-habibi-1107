@@ -40,8 +40,10 @@ On my way to become a billionaire
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-habibi-1107&layout=compact&theme=gruvbox">
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-habibi-1107&" alt="al-habibi-1107" /></p>
+<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-habibi-1107&" alt="al-habibi-1107" /></p>
 <br/>  
+<br><p align="right">![](https://visitor-badge.laobi.icu/badge?page_id=al-habibi-1107)<br>
+  
 
 
   
