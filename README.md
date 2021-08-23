@@ -37,7 +37,7 @@ On my way to become a billionaire
   
   <p align=center>
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=al-habibi-1107&show_icons=true&theme=gruvbox">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-habibi-1107h&layout=compact&theme=gruvbox">
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-habibi-1107&layout=compact&theme=gruvbox">
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-habibi-1107&" alt="al-habibi-1107" /></p>
