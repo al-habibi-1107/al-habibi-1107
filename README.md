@@ -4,8 +4,8 @@ I'm a Full-Stack App-Developer and i love learning new stuff.
 On my way to become a billionaire
 
 ## About me 📝
-- 🔭 I’m currently working on Grevance Management Flutter App.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently learning technologies like ```.Blockchain```, ```.PHP```,```.Ts```,```MySQL```, etc.
+- 🔭 I’m currently working on Software Solution for an Electrical Appliance Company .<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m currently learning technologies like ```.Js```, ```.Dart```,```.Ts```,```MySQL```, etc.
 - 👯 I’m looking forward to collaborate on anything if i get to learn new stuff. 
 - 😄 Building the next Unicorn going TO THE MOON🚀
 - ⚡ Fun fact: I love anime , crypto and business.
